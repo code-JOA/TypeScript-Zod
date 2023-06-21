@@ -4,5 +4,6 @@ Learn how to use TypeScript & Zod validation together in this tutorial. We will 
 TypeScript + Zod together provides both type safety and runtime type checking!
 
 This project is built with
-Vite on top of React
-Typescr
+
+- Vite on top of React
+- Typescr
